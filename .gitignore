@@ -6,6 +6,9 @@ data/labeled_data_hydrated.csv
 model_exports/
 results/
 tmp/
+.DS_Store
+.idea/
+MUSE/
 
 create_input_data.py
 load_data.py
